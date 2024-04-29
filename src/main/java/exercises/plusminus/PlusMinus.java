@@ -1,4 +1,4 @@
-package plusminus;
+package exercises.plusminus;
 
 public class PlusMinus {
 	
